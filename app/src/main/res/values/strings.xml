@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cos</string>
+    <string name="Guziczek">Mój guzik</string>
+    <string name="jestem_kolorowym_napisem">Jestem kolorowym napisem</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa">
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    </string>
+</resources>
